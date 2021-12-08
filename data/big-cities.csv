@@ -1,0 +1,219 @@
+,location,latitude,longitude
+0,"Funafuti, Tuvalu",-8.52047,179.199585
+1,"Cape Town, South Africa",-33.92487,18.424055
+2,"Metro Manila, Philippines",14.609054,121.022255
+3,"Quezon City, Philippines",14.676041,121.043701
+4,"Yaren, Nauru",-0.54752,166.917267
+5,"Harare, Zimbabwe",-17.825167,31.03351
+6,"Lusaka, Zambia",-15.387526,28.322817
+7,"Sana'a, Yemen",15.36198,44.20195
+8,"Laayoune, Western Sahara",27.15913,-13.20753
+9,"Ho Chi Minh City, Vietnam",10.823099,106.629662
+10,"Caracas, Venezuela",10.480594,-66.903603
+11,"Vatican City, Vatican City",41.902229,12.4581
+12,"Port Vila, Vanuatu",-17.733252,168.327332
+13,"Tashkent, Uzbekistan",41.299496,69.240074
+14,"Montevideo, Uruguay",-34.901112,-56.164532
+15,"New York City, United States of America",40.713051,-74.007233
+16,"London, United Kingdom",51.507351,-0.127758
+17,"Dubai, United Arab Emirates",25.204849,55.270782
+18,"Kyiv, Ukraine",50.447731,30.542721
+19,"Kyiv, Ukraine",50.447731,30.542721
+20,"Kampala, Uganda",0.347596,32.58252
+22,"Ashgabat, Turkmenistan",37.95034,58.39011
+23,"Istanbul, Turkey",41.00824,28.978359
+24,"Tunis, Tunisia",36.806496,10.181532
+25,"Chaguanas, Trinidad and Tobago",10.5132,-61.407848
+26,"Nukuʻalofa, Tonga",-21.136009,-175.216431
+27,"Lomé, Togo",6.13365,1.22311
+28,"Bangkok, Thailand",13.756331,100.501762
+29,"Bangkok, Thailand",13.756331,100.501762
+30,"Dar es Salaam, Tanzania",-6.792354,39.208328
+31,"Dushanbe, Tajikistan",38.557671,68.775917
+32,"New Taipei, Taiwan",25.011709,121.465881
+33,"Damascus, Syria",33.513805,36.276527
+34,"Zürich, Switzerland",47.376888,8.541694
+35,"Stockholm, Sweden",59.329323,18.068581
+36,"Paramaribo, Suriname",5.852036,-55.203827
+37,"Khartoum, Sudan",15.500654,32.559898
+38,"Omdurman, Sudan",15.65312,32.481529
+39,"Colombo, Sri Lanka",6.927079,79.861244
+40,"Madrid, Spain",40.416775,-3.70379
+41,"Juba, South Sudan",4.84364,31.603359
+42,"Tskhinvali, South Ossetia",42.05498,44.06173
+43,"Johannesburg, South Africa",-26.204103,28.047304
+45,"Hargeisa, Somaliland",9.56406,44.06361
+46,"Mogadishu, Somalia",2.046934,45.318161
+47,"Honiara, Solomon Islands",-8.68443,162.179855
+48,"Ljubljana, Slovenia",46.05143,14.50597
+49,"Bratislava, Slovakia",48.148598,17.107748
+50,"Singapore, Singapore",1.352083,103.819839
+51,"Freetown, Sierra Leone",8.465677,-13.231722
+52,"Victoria, Seychelles",-4.62354,55.452492
+53,"Belgrade, Serbia",44.815071,20.46048
+54,"Dakar, Senegal",14.716677,-17.467686
+55,"Riyadh, Saudi Arabia",24.713552,46.675297
+56,"São Tomé, São Tomé and Príncipe",0.33631,6.73424
+57,"Dogana, San Marino",43.98333,12.49182
+58,"Apia, Samoa",-13.83282,-171.760056
+59,"Kingstown, Saint Vincent and the Grenadines",13.16089,-61.22942
+60,"Castries, Saint Lucia",14.01159,-60.988232
+61,"Basseterre, Saint Kitts and Nevis",17.29645,-62.735771
+62,"Kigali, Rwanda",-1.970579,30.104429
+63,"Moscow, Russia",55.755825,37.617298
+64,"Bucharest, Romania",44.426765,26.102537
+65,"Bucharest, Romania",44.426765,26.102537
+66,"Doha, Qatar",25.285446,51.53104
+67,"Lisbon, Portugal",38.722252,-9.139337
+68,"Lisbon, Portugal",38.722252,-9.139337
+69,"Warsaw, Poland",52.229675,21.01223
+72,"Lima, Peru",-12.046373,-77.042755
+73,"Asunción, Paraguay",-25.299999,-57.630001
+74,"Port Moresby, Papua New Guinea",-9.4438,147.180267
+75,"Panama City, Panama",8.982379,-79.519867
+76,"Gaza City, State of Palestine",31.532249,34.467018
+77,"Koror, Palau",5.53335,100.516029
+78,"Karachi, Pakistan",24.860735,67.001137
+79,"Muscat, Oman",23.58589,58.405922
+80,"Oslo, Norway",59.913868,10.752245
+81,"North Nicosia, Northern Cyprus",35.18259,33.350571
+82,"Skopje, North Macedonia",41.994011,21.435921
+83,"Lagos, Nigeria",6.524379,3.379206
+84,"Niamey, Niger",13.50795,2.11603
+85,"Managua, Nicaragua",12.114993,-86.236176
+86,"Auckland, New Zealand",-36.848461,174.763336
+87,"Auckland, New Zealand",-36.848461,174.763336
+88,"Amsterdam, Netherlands",52.370216,4.895168
+89,"Kathmandu, Nepal",27.717245,85.323959
+91,"Windhoek, Namibia",-22.560881,17.065756
+92,"Yangon, Myanmar",16.86607,96.195129
+93,"Maputo, Mozambique",-25.969248,32.573174
+94,"Casablanca, Morocco",33.573109,-7.589843
+95,"Podgorica, Montenegro",42.438061,19.265551
+96,"Ulaanbaatar, Mongolia",47.886398,106.905746
+97,"Monte Carlo, Monaco",43.740421,7.42558
+98,"Chişinău, Moldova",47.0242,28.83183
+99,"Weno, Federated States of Micronesia",6.91664,158.14997
+100,"Mexico City, Mexico",19.432608,-99.133209
+101,"Mexico City, Mexico",19.432608,-99.133209
+102,"Port Louis, Mauritius",-20.15789,57.505611
+103,"Nouakchott, Mauritania",18.09214,-15.97961
+104,"Ebeye, Marshall Islands",7.12052,171.36576
+105,"Valletta, Malta",35.898331,14.51255
+106,"Bamako, Mali",12.639232,-8.002889
+107,"Malé, Maldives",4.17373,73.50396
+108,"Kuala Lumpur, Malaysia",3.139003,101.686852
+109,"Lilongwe, Malawi",-13.99572,33.759819
+110,"Antananarivo, Madagascar",-18.87919,47.507904
+111,"Luxembourg City, Luxembourg",49.610001,6.12963
+112,"Vilnius, Lithuania",54.687157,25.279652
+113,"Schaan, Liechtenstein",47.16378,9.50858
+114,"Tripoli, Libya",32.887211,13.191338
+115,"Monrovia, Liberia",6.290743,-10.760524
+116,"Maseru, Lesotho",-29.315077,27.486923
+117,"Beirut, Lebanon",33.893791,35.501778
+118,"Riga, Latvia",56.94965,24.105186
+119,"Vientiane, Laos",17.96216,102.611633
+120,"Bishkek, Kyrgyzstan",42.874622,74.569763
+121,"Kuwait City, Kuwait",29.375858,47.977406
+122,"Pristina, Kosovo",42.584469,22.586651
+123,"Seoul, Korea, South",37.56829,126.99778
+124,"Pyongyang, Korea, North",39.02138,125.75275
+125,"Betio, Kiribati",1.33557,173.019913
+126,"Nairobi, Kenya",-1.292066,36.821945
+127,"Almaty, Kazakhstan",43.222015,76.85125
+128,"Amman, Jordan",31.945368,35.928371
+129,"Tokyo, Japan",35.689487,139.691711
+130,"Tokyo, Japan",35.689487,139.691711
+131,"Kingston, Jamaica",18.017874,-76.809906
+132,"Rome, Italy",41.902782,12.496365
+133,"Jerusalem, Israel",31.768318,35.213711
+134,"Dublin, Ireland",53.349804,-6.26031
+135,"Baghdad, Iraq",33.312805,44.361488
+136,"Tehran, Iran",35.689198,51.388973
+137,"Jakarta, Indonesia",-6.17511,106.865036
+138,"Mumbai, India",19.075983,72.877655
+139,"Reykjavík, Iceland",64.147209,-21.9424
+140,"Budapest, Hungary",47.497913,19.040236
+141,"Tegucigalpa, Honduras",14.072275,-87.192139
+142,"Port-au-Prince, Haiti",18.594395,-72.307434
+143,"Georgetown, Guyana",6.801279,-58.155125
+144,"Bissau, Guinea-Bissau",11.85262,-15.60631
+145,"Conakry, Guinea",9.50913,-13.71255
+146,"Guatemala City, Guatemala",14.634915,-90.506882
+147,"St. George's, Grenada",33.516609,-89.919952
+148,"Athens, Greece",37.98381,23.727539
+149,"Accra, Ghana",5.603717,-0.186964
+150,"Rhine-Ruhr, Germany",51.427071,6.88649
+151,"Berlin, Germany",52.520008,13.404954
+152,"Tbilisi, Georgia",41.69363,44.80162
+153,"Serekunda, Gambia, The",13.4348,-16.67831
+154,"Libreville, Gabon",0.416198,9.467268
+155,"Paris, France",48.856613,2.352222
+156,"Paris, France",48.856613,2.352222
+157,"Helsinki, Finland",60.169857,24.938379
+158,"Helsinki, Finland",60.169857,24.938379
+159,"Nasinu, Fiji",-18.074579,178.501556
+160,"Addis Ababa, Ethiopia",8.980603,38.757759
+161,"Manzini, Eswatini",-26.496889,31.37896
+162,"Tallinn, Estonia",59.436962,24.753574
+163,"Asmara, Eritrea",15.339,38.937111
+164,"Bata, Equatorial Guinea",1.85882,9.76827
+165,"San Salvador, El Salvador",13.69294,-89.218193
+166,"Cairo, Egypt",30.04442,31.235712
+167,"Guayaquil, Ecuador",-2.14763,-79.94175
+168,"Quito, Ecuador",-0.180653,-78.467834
+169,"Dili, East Timor",-8.556856,125.56031
+170,"Santo Domingo, Dominican Republic",18.486057,-69.931213
+171,"Roseau, Dominica",15.30288,-61.390049
+172,"Djibouti, Djibouti",11.60047,43.150829
+173,"Copenhagen, Denmark",55.676098,12.568337
+174,"Prague, Czech Republic",50.075539,14.4378
+175,"Prague, Czech Republic",50.075539,14.4378
+176,"Nicosia, Cyprus",35.185566,33.382275
+177,"Havana, Cuba",23.113592,-82.366592
+178,"Zagreb, Croatia",45.81501,15.981919
+179,"Abidjan, Côte d'Ivoire",33.8913,-6.31832
+180,"San José, Costa Rica",9.928069,-84.090729
+181,"Brazzaville, Congo, Republic of the",-4.2739,15.28151
+182,"Kinshasa, Congo, Democratic Republic of the",-4.2739,15.28151
+183,"Moroni, Comoros",-11.70379,43.255192
+184,"Bogotá, Colombia",4.710989,-74.07209
+185,"Shanghai, China",31.230391,121.473701
+186,"Santiago, Chile",-33.448891,-70.669266
+187,"N'Djamena, Chad",12.11218,15.06897
+188,"Bangui, Central African Republic",4.36263,18.58198
+189,"Praia, Cape Verde",14.9167,-23.5075
+190,"Toronto, Canada",43.653225,-79.383186
+191,"Douala, Cameroon",4.05486,9.69872
+192,"Phnom Penh, Cambodia",11.556374,104.928207
+193,"Bujumbura, Burundi",-3.38227,29.363581
+194,"Ouagadougou, Burkina Faso",12.37153,-1.51992
+195,"Sofia, Bulgaria",42.697708,23.321867
+196,"Bandar Seri Begawan, Brunei",4.903052,114.939819
+197,"São Paulo, Brazil",-23.55052,-46.633308
+198,"Gaborone, Botswana",-24.66118,25.911751
+199,"Sarajevo, Bosnia and Herzegovina",43.858181,18.41234
+200,"Santa Cruz de la Sierra, Bolivia",-17.783279,-63.179161
+201,"Thimphu, Bhutan",27.577391,89.623016
+202,"Cotonou, Benin",6.35459,2.40374
+203,"Belize City, Belize",17.49469,-88.189728
+204,"Brussels, Belgium",50.850346,4.351721
+205,"Minsk, Belarus",53.904541,27.561523
+206,"Bridgetown, Barbados",13.096851,-59.614483
+207,"Dhaka, Bangladesh",23.810331,90.412521
+208,"Manama, Bahrain",26.228516,50.586048
+209,"Nassau, Bahamas",25.047983,-77.355415
+210,"Baku, Azerbaijan",40.409264,49.867092
+211,"Vienna, Austria",48.208176,16.373819
+212,"Sydney, Australia",-33.86882,151.20929
+213,"Stepanakert, Artsakh",42.36966,-71.15833
+214,"Yerevan, Armenia",40.179188,44.499104
+215,"Buenos Aires, Argentina",-34.603683,-58.381557
+216,"St. John's, Antigua and Barbuda",17.118481,-61.84013
+217,"Luanda, Angola",-8.839988,13.289437
+218,"Andorra la Vella, Andorra",42.50753,1.52182
+219,"Algiers, Algeria",36.753769,3.058756
+220,"Tirana, Albania",41.327545,19.818699
+221,"Kabul, Afghanistan",34.555347,69.207489
+222,"Sukhumi, Abkhazia",55.879742,49.050419
