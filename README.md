@@ -7,7 +7,7 @@ This repository catalogues techniques for measuring the built environment. There
 - large extracts with [pyrosm](https://github.com/asrenninger/morphometry/blob/main/resources/pyrosm.ipynb)
 - small extracts with [osmnx](https://github.com/asrenninger/morphometry/blob/main/resources/osmnx.ipynb)
 
-Other datasets include [Google](https://sites.research.google/open-buildings/) and [Microsofts](https://www.microsoft.com/en-us/maps/building-footprints) buildings datasets, which contains the footprints for Africa and North America respectively.  
+Other datasets include [Google](https://sites.research.google/open-buildings/) and [Microsoft](https://www.microsoft.com/en-us/maps/building-footprints) buildings datasets, which contains the footprints for Africa and North America respectively.  
 
 ----
 
